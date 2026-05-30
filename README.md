@@ -50,6 +50,8 @@ This project analyzes customer purchasing behavior to identify retention pattern
 * Exported Analysis Results (.csv)
 * Visualization Images
 
+  ## Demo video : https://drive.google.com/file/d/1jX4REGYKucz6_ejtoXlyODCDYBdLNhUa/view?usp=sharing
+
 ## Conclusion
 
 This project demonstrates how data analytics techniques can help businesses understand customer behavior, improve retention strategies, and identify churn risk.
