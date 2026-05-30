@@ -4,6 +4,10 @@
 
 This project analyzes customer purchasing behavior to identify retention patterns, customer segments, and churn risk using Python and data analytics techniques.
 
+## Internship Information
+
+This project was completed as part of the Data Analytics Internship Program at SkillInfyTech.
+
 ## Objectives
 
 * Analyze customer purchasing behavior
